@@ -45,12 +45,12 @@ Para que o seu projeto seja considerado aprovado, os seguintes critérios serão
 
 ---
 
-## 🛠️ Tecnologias Recomendadas
+## 🛠️ Tecnologias Recomendadas (somente pode usar essas)
 
 Para garantir agilidade no desenvolvimento e entrega em arquivo único, utilize:
 * **Estrutura:** HTML5 limpo e semântico.
-* **Estilização:** Tailwind CSS (via CDN) para garantir a responsividade moderna de forma rápida.
-* **Dinamismo:** JavaScript Vanilla (puro) para manipulação do DOM e lógica matemática.
+* **Estilização:** CSS PURO.
+* **Dinamismo:** JavaScript puro
 
 ---
 🚀 *Boa sorte! Foque nos detalhes visuais, nos estados dos botões (hover/active) e garanta que o cálculo mude instantaneamente na tela ao alterar os números.*
